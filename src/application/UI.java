@@ -56,5 +56,4 @@ public class UI {
         }
         System.out.print(" ");
     }
-
 }
